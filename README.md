@@ -9,7 +9,7 @@ Bitcoin price ticker in Thai Baht and mempool info on M5Stack
 - Digital Clock
 - Bitcoin prices in Thai Baht and USD.
 - Mempool basic information and fee rates
-- Press button B one for receiving address
+- Press button B, for receiving address
 
 ## Hardware
 The hardware I have tested on
